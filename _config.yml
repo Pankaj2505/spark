@@ -3,7 +3,7 @@ author:
   name: panakj bhatt
   email: pkj.bhatt@yahoo.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  This series includes blogs about Datawarehouse concepts,its creation and interview questions.
+  This series includes blogs about Spark concepts,its creation and interview questions.
 url :
 baseurl : '/spark'
 show_excerpts: false # set to true to show excerpts on the homepage
